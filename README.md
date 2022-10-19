@@ -1,7 +1,7 @@
 ![MasterHead](https://www.webspreadtech.com/images/python-banner.jpg)
 <h1 align="center">Hi 👋, I'm Nikola Mihalev</h1>
 <h3 align="center">I'm a Python student from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihalev11&label=Profile%20views&color=0e75b6&style=flat" alt="mihalev11" /> </p>
 
